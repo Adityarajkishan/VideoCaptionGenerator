@@ -1,2 +1,2 @@
-# VideoCaptionGenerator
-Input your video and get the generated caption to download with time stamp
+# VideoCaptioning
+This is a project to upload videos and generate captions using ML.
